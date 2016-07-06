@@ -39,9 +39,9 @@ import butterknife.Bind;
 import butterknife.ButterKnife;
 
 /**
- * 作者：zbbdddd
+ * 作者yyyyyyyy
  *
- * 个人博客：zzzzzsbbb
+ * 个人博客：sunfusheng.com
  */
 public class MainActivity extends AppCompatActivity implements SmoothListView.ISmoothListViewListener {
 

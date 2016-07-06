@@ -39,7 +39,7 @@ import butterknife.Bind;
 import butterknife.ButterKnife;
 
 /**
- * 作者：孙福生
+ * 作者：zbb
  *
  * 个人博客：sunfusheng.com
  */
